@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+section{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg1{
+
+background-image: url(https://cdn.pixabay.com/photo/2018/01/30/22/50/forest-3119826_960_720.jpg);
+background-size: cover;
+background-position: center;
+}
+.bg2{
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/02/16/54/iceland-2111811_960_720.jpg);
+background-size: cover;
+background-position: center;
+}
+.bg3{
+    background-image: url(https://cdn.pixabay.com/photo/2020/02/17/18/48/sea-4857364_960_720.jpg) ;
+background-size: cover;
+background-position: center;
+}
+.bg4{
+    background-image: url(https://cdn.pixabay.com/photo/2017/09/22/09/48/desert-2774945_960_720.jpg);
+background-size: cover; 
+background-position: center;
+}
