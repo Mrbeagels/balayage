@@ -34,3 +34,7 @@ background-position: center;
 background-size: cover; 
 background-position: center;
 }
+.footerIcons{
+    height: 80px;
+    width: 80px;
+    }
